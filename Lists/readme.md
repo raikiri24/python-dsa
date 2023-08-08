@@ -4,5 +4,7 @@ Python Lists are ordered collections of data just like arrays in other programmi
 ## Example: Creating Python List
 
 
-`List = [1, 2, 3, "GFG", 2.3]`
-`print(List)`
+```
+List = [1, 2, 3, "GFG", 2.3]
+print(List)
+```
